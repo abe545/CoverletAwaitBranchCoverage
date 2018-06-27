@@ -1,11 +1,13 @@
 ﻿using System;
+using System.Threading.Tasks;
 
 namespace CoverletAwaitBranchCoverage
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static async Task Main()
         {
+            await Task.CompletedTask;
             Console.WriteLine("Hello World!");
         }
     }

@@ -1,0 +1,37 @@
+{
+ "C:\\code\\CoverletAwaitBranchCoverage\\CoverletAwaitBranchCoverageTest\\bin\\Debug\\netcoreapp2.1\\CoverletAwaitBranchCoverage.dll": {
+  "C:\\code\\CoverletAwaitBranchCoverage\\CoverletAwaitBranchCoverage\\Program.cs": {
+   "CoverletAwaitBranchCoverage.Program/<Main>d__0": {
+    "System.Void CoverletAwaitBranchCoverage.Program/<Main>d__0::MoveNext()": {
+     "Lines": {
+      "9": {
+       "Hits": 1
+      },
+      "10": {
+       "Hits": 1
+      },
+      "11": {
+       "Hits": 1
+      },
+      "12": {
+       "Hits": 1
+      }
+     },
+     "Branches": {
+      "10": [{
+       "Offset": 33,
+       "EndOffset": 35,
+       "Path": 0,
+       "Ordinal": 0
+      }, {
+       "Offset": 33,
+       "EndOffset": 99,
+       "Path": 1,
+       "Ordinal": 1
+      }]
+     }
+    }
+   }
+  }
+ }
+}
